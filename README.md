@@ -34,5 +34,5 @@ For both project you can find code, a report with all explainations and datasets
 # Authors 
 
 * [Alice Cariboni](https://github.com/A1iceCariboni)
-* Matteo Braceschi
+* [Matteo Braceschi](https://github.com/matteobraceschi)
 * Claudio Corradini
